@@ -1,0 +1,107 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Programação"
+    },
+    {
+      "id": "2",
+      "titulo": "O Paradoxo da Espera do Ônibus",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/Ibow_K7fqF0?si=LKpSrYKHAG2KlwX9",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Filosofia"
+    },
+    {
+      "id": "3",
+      "titulo": "43 Regras Para a Vida",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/Qnn9EVsQgI4?si=UoZxuFqCZSNuAhHz",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Filosofia"
+    },
+    {
+      "id": "4",
+      "titulo": "Como Despiorar o Mundo (com ZERO esforço)",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/dQTn-sNxzdM?si=KgmCxiWrqZoYudbB",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Filosofia"
+    },
+    {
+      "id": "5",
+      "titulo": "Hasbulla business business",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/fL-hy1UVBV0?si=c7tiR70eGOqYYFMS",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Memes"
+    },
+    {
+      "id": "6",
+      "titulo": "perfecto miserable",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/RA2BhOdUqpU?si=p5KdfWjUrDHWU95T",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Musica"
+    },
+    {
+      "id": "7",
+      "titulo": "First Reaction to Arctic Monkeys - AM (Part 1)",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/kkxV5x72qAA?si=iOaebiMG48WN8CUC",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Musica Reacts"
+    },
+    {
+      "id": "8",
+      "titulo": "RECADO PARA O HATER 'GTA'",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/r5kViaROvNk?si=6CE4BeMlVoC1QpRQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Memes"
+    },
+    {
+      "titulo": "A VERDADE POR TRÁS DA MORTE DE HITLER - Nostalgia Animado",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/PPPRCeK46ck?si=nB2da-lHYdOvgsKM",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": "9",
+      "categoria": "História"
+    },
+    {
+      "titulo": "O MAIOR DESASTRE RADIOATIVO DA HISTÓRIA DO BRASIL - Nostalgia Animado",
+      "descricao": "18 mil visualizações",
+      "url": "https://www.youtube.com/embed/UrtenQ77lUA?si=Mld458WvihJKTSOO",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": "10",
+      "categoria": "História Ciência"
+    },
+    {
+      "titulo": "Góes Reage - Os piores conselhos de nutrição do TikTok!",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/_ZA44L_H1Zk?si=5T-_MJfMw_SaW7P5",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": "11",
+      "categoria": "Reacts Ciência"
+    },
+    {
+      "titulo": "RODRIGO GÓES - Podpah #693",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/wCH6JkyD4d4?si=2O3mQlGNVcYuEZF5",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": "12",
+      "categoria": "Podcasts Ciência"
+    },
+    {
+      "id": "2197",
+      "titulo": "Educação coorporativa",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    }
+  ]
+}
